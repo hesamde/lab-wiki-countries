@@ -1,10 +1,7 @@
-function Navbar() {
-    return (
-        <>
-        <p className='navbar'>WikiCountries</p>
-        </>
+function NavBar(){
+  return(
+      <h1 className="navi">Lab - WikiCountries</h1>
+  )
+}
 
-    )
-    }
-
-    export default Navbar;
+export default NavBar;
