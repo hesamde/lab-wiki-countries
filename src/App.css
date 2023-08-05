@@ -2,13 +2,16 @@
   .your-class {
     /* Corrected property and value within the media query */
     transform: rotate(360deg);
+
   }
 }
 
 ul {
   list-style: none;
+
 }
 
 .list-group img {
   margin-bottom: 20px;
 }
+
